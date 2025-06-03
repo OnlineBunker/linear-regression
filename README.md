@@ -17,7 +17,7 @@ This repository contains a simple implementation of **Linear Regression** using 
 
 | File/Folder | Description                                                 |
 | ----------- | ----------------------------------------------------------- |
-| `main.py`   | Core script containing the linear regression implementation |
+| `linear_regression.py`   | Core script containing the linear regression implementation |
 | `data2.csv` | Dataset: study hours vs exam scores                         |
 | `images/`   | Folder containing generated plots                           |
 
@@ -51,10 +51,10 @@ The dataset contains two columns:
 ## 🚀 How to Run
 
 ```bash
-python main.py
+python linear_regression.py
 ```
 
-Make sure `data2.csv` is present in the same directory as `main.py`.
+Make sure `data2.csv` is present in the same directory as `linear_regression.py`.
 
 ---
 
